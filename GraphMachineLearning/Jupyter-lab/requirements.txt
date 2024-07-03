@@ -1,0 +1,9 @@
+Flask
+flask-cors
+requests
+pandas
+networkx
+matplotlib
+scikit-image
+scipy
+wordcloud
